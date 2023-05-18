@@ -1,2 +1,4 @@
 limon
 manzana
+fresa
+naranja
