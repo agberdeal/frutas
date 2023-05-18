@@ -3,3 +3,4 @@ manzana
 fresa
 naranja
 mandarina
+pera
