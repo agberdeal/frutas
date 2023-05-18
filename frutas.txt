@@ -8,3 +8,5 @@ sandia
 melon
 paraguaya
 tomate
+uvas
+paraguaya
