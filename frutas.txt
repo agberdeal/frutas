@@ -4,5 +4,4 @@ fresa
 naranja
 mandarina
 pera
-melon
 sandia
