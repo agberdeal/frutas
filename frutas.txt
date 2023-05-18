@@ -6,3 +6,4 @@ mandarina
 pera
 sandia
 melon
+uvas
